@@ -1,3 +1,7 @@
 public class Calculator{
-    // [과제] 두 정수를 합해서 반환하는 메서드를 만드세요.
+
+    // 1. 새로 구현한 add() 메서드 
+    public int add(int a, int b){        
+        return 0; 
+    }
 }
